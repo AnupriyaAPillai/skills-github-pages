@@ -1,4 +1,4 @@
-hey!---
-title: Welcome to my blog
----
+hey!
+ Welcome to my blog
+
 
